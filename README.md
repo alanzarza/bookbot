@@ -1,4 +1,4 @@
 # bookbot
 Created as a task for boot.dev course
 ## Description
-does something
+Counts total amount of words and occurences of characters in a document
